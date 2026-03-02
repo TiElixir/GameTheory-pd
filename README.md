@@ -68,4 +68,3 @@ The **AIStrategy** does not just follow a static rule. It uses a 20-round **Prob
 ... and 10 others.
 
 ---
-Created by Antigravity AI for Game Theory research.
