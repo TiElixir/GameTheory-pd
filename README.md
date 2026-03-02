@@ -2,7 +2,6 @@
 
 A comprehensive simulation and analysis of the Iterated Prisoner's Dilemma, featuring 19 strategies, a PyTorch-based AI, and a modern GUI.
 
-![Simulation GUI](https://raw.githubusercontent.com/TiElixir/GameTheory-pd/main/screenshot.png) *(Note: Placeholder link, replace with actual screenshot if available)*
 
 ## 🎮 Features
 
